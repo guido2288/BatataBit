@@ -1,0 +1,71 @@
+.header-title-container h1 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.header-title-container p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+.main-exchange-container-title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.main-exchange-container-title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+.main-tables-display {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.main-currency-table {
+  min-width: 380px;
+}
+.product-detail-title h2 {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.product-detail-title p {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+.product-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 830px;
+  margin: 0 auto;
+}
+.bitcoin-img-container h2 {
+  padding-top: 120px;
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.plans-title h2 {
+  width: 70%;
+  margin: 0 auto;
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+.plans-title p {
+  width: 70%;
+  margin: 0 auto;
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+.plans-container--slider {
+  justify-content: center;
+  height: auto;
+  overflow-x: hidden;
+}
+footer {
+  height: 270px;
+}
+footer .left ul {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
